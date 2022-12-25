@@ -11,7 +11,7 @@ Run `php artisan serve` to start the project, and run `php artisan queue:work` o
 
 
 ### How to use
-**POST** `/api/email` - send an email.
+**POST** `/api/email` - to send an email.
 
 **Request**
 ```json
