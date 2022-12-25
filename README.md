@@ -7,7 +7,7 @@ php artisan migrate --seed
 ```
 
 ### How to start
-Run this command `php artisan serve` to start the project, and run `php artisan queue:work` on the other tab to start the queue .
+Run `php artisan serve` to start the project, and run `php artisan queue:work` on the other tab to start the queue .
 
 
 ### How to use
